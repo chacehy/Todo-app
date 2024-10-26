@@ -12,9 +12,7 @@ A simple and intuitive Todo application that allows users to create, read, updat
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript (or React/Vue/Angular if applicable)
-- **Backend**: Node.js, Express (or any other backend framework)
-- **Database**: MongoDB (or any other database like PostgreSQL/MySQL)
+- **Frontend**: ReactJs
 - **Version Control**: Git and GitHub
 
 ## Installation

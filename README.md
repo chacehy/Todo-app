@@ -29,8 +29,9 @@ A simple and intuitive Todo application that allows users to create, read, updat
    ```bash
    npm install
 4. Set Up Database Connection (if applicable):
-Configure your database settings in the configuration file (if applicable).
+   
+Configure your database settings in the configuration file
 
-5. Open the Server:
+6. Open the Server:
    ```bash
    npm run dev
